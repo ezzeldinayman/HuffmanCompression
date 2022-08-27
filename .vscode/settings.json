@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdarg.h": "c",
+        "time.h": "c",
+        "stdio.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "g:\\Uni\\Senior-1\\Data Structures & Algorithms\\Project_Final",
+            "binaryPath": "g:\\Uni\\Senior-1\\Data Structures & Algorithms\\Project_Final\\huffman.exe",
+            "binaryArgs": []
+        }
+    ]
+}
