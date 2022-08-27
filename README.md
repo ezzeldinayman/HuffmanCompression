@@ -5,4 +5,5 @@ C Program that takes input file from the user compresses/decompresses it using H
 <ul>
   <li>For Compression Write: huffman.exe -c "fileToBeCompressed" "outputFile.huff"</li>
   <li>For Decompression Write: huffman.exe -d "fileToBeDecompressed.huff" "OutputFile"</li>
+  <li>For Comparison of Files write: huffman.exe -m "FileOne" "FileTwo"</li>
 </ul>
